@@ -1,0 +1,62 @@
+[
+    {
+        "full_name": "Becky Cunningham",
+        "email": "becky.cunningham@example.com",
+        "gender": "female",
+        "country": "United Kingdom"
+    },
+    {
+        "full_name": "Adam Morin",
+        "email": "adam.morin@example.com",
+        "gender": "male",
+        "country": "Canada"
+    },
+    {
+        "full_name": "Willie Gregory",
+        "email": "willie.gregory@example.com",
+        "gender": "male",
+        "country": "Australia"
+    },
+    {
+        "full_name": "Hildeberto Jesus",
+        "email": "hildeberto.jesus@example.com",
+        "gender": "male",
+        "country": "Brazil"
+    },
+    {
+        "full_name": "Titouan Michel",
+        "email": "titouan.michel@example.com",
+        "gender": "male",
+        "country": "France"
+    },
+    {
+        "full_name": "Ievdokiya Artim",
+        "email": "ievdokiya.artim@example.com",
+        "gender": "female",
+        "country": "Ukraine"
+    },
+    {
+        "full_name": "Abhinav Saha",
+        "email": "abhinav.saha@example.com",
+        "gender": "male",
+        "country": "India"
+    },
+    {
+        "full_name": "\u00d6zsu T\u00fcz\u00fcn",
+        "email": "ozsu.tuzun@example.com",
+        "gender": "female",
+        "country": "Turkey"
+    },
+    {
+        "full_name": "Lucena Campos",
+        "email": "lucena.campos@example.com",
+        "gender": "female",
+        "country": "Brazil"
+    },
+    {
+        "full_name": "Anthony Mitchell",
+        "email": "anthony.mitchell@example.com",
+        "gender": "male",
+        "country": "Canada"
+    }
+]

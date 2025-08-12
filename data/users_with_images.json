@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Dileep Shukla",
+        "email": "dileep.shukla@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/65.jpg"
+    },
+    {
+        "name": "Israel Barela",
+        "email": "israel.barela@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/90.jpg"
+    },
+    {
+        "name": "Roope Hatala",
+        "email": "roope.hatala@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/40.jpg"
+    },
+    {
+        "name": "Xaver Chevalier",
+        "email": "xaver.chevalier@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "name": "Tony Lemoine",
+        "email": "tony.lemoine@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "name": "Bertha Neal",
+        "email": "bertha.neal@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+        "name": "Luisa Ruiz",
+        "email": "luisa.ruiz@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/26.jpg"
+    },
+    {
+        "name": "Raquel M\u00e1rquez",
+        "email": "raquel.marquez@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/46.jpg"
+    },
+    {
+        "name": "Sofia Pollari",
+        "email": "sofia.pollari@example.com",
+        "image_url": "https://randomuser.me/api/portraits/women/85.jpg"
+    },
+    {
+        "name": "Kyle Ray",
+        "email": "kyle.ray@example.com",
+        "image_url": "https://randomuser.me/api/portraits/men/17.jpg"
+    }
+]

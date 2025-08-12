@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Isabella Elliott",
+        "birth_year": 1995,
+        "email": "isabella.elliott@example.com"
+    },
+    {
+        "name": "Hans-Gerd Gehrke",
+        "birth_year": 2001,
+        "email": "hans-gerd.gehrke@example.com"
+    }
+]

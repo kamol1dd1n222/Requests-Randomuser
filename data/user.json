@@ -1,0 +1,12 @@
+{
+    "first_name": "Tanya",
+    "last_name": "Banks",
+    "gender": "female",
+    "email": "tanya.banks@example.com",
+    "phone": "00-9941-4526",
+    "address": {
+        "street": "804 Preston Rd",
+        "city": "Geraldton",
+        "country": "Australia"
+    }
+}
